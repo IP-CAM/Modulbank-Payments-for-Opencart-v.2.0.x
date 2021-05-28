@@ -27,7 +27,7 @@ To properly send checks, you need to specify the tax system, the subject of calc
 
 Модуль позволяет принимать платежи банковской картой через Модульбанк.
 
-[Скачать модуль](https://github.com/modulbank-pay/modulbank-opencart2.0/releases/download/v1.4.0/modulbank_opencart2.0_1.4.0.ocmod.zip)
+[Скачать модуль](https://github.com/modulbank-pay/modulbank-opencart2.0/releases/latest/download/modulbank_opencart2.0.ocmod.zip)
 
 ### Установка
 
