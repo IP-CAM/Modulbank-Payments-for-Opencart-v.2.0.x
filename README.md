@@ -2,7 +2,7 @@
 
 The module allows you to accept payments by a bank card via MODULBANK.
 
-[Download Module] (https://github.com/modulbank-pay/modulbank-opencart2.0/releases/download/2/v1.4.0/modulbank_opencart2.0_1.4.0.ocmod.zip)
+[Download Module](https://github.com/modulbank-pay/modulbank-opencart2.0/releases/download/2/v1.4.0/modulbank_opencart2.0_1.4.0.ocmod.zip)
 
 ### Installation
 
